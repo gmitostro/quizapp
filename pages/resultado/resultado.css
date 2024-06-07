@@ -78,7 +78,7 @@ header {
 
 .assunto_icone.acessibilidade{
     background: var(--bg-acessibilidade);
-
+}
 .assunto_icone img {
     width: 100%;
 }
